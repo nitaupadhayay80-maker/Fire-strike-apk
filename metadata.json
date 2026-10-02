@@ -1,0 +1,6 @@
+{
+  "name": "FireStrike: Battle Royale 3D",
+  "description": "Realistic 3D Battle Royale game inspired by Free Fire featuring Bermuda drop zone, Gloo Walls, weapon looting, safe zone storm shrink, tactical combat, and Booyah victory.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
